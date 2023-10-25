@@ -11,6 +11,6 @@
 ## Installation
 öncelikle projeyi clonelayın. 
 ```
-git clone https://github.com/GonulAksu/-istanbulKodluyor-isAnalisti.git
+git clone https://github.com/GonulAksu/IstanbulKodluyor-IsAnalisti.git
 
 ```
