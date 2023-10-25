@@ -1,4 +1,4 @@
-import math
+
 # 1-Kullanıcının girdiği boy ve ağırlık değerlerine göre vücut kitle indeksini (VKİ = ağırlık/(boy*boy)) hesaplayınız.
 
 # userSize=float(input('Lütfen boy ölçünüzü giriniz. ör 1.72'))
